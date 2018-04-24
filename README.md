@@ -4,7 +4,6 @@
 
 ## Run the following commands for inference after downloading and unzipping the trained model
 ```
-docker pull bvlc/caffe:cpu 
 export MODEL_NAME=<MODEL_NAME> replace this with the downloaded caffemodel filename
 chmod +x ./infer.sh
 ./infer.sh images/7.png

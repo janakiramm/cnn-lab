@@ -1,1 +1,1 @@
-wget https://www.dropbox.com/s/83p19mmsqgks393/mnist.caffemodel?dl=0 -O mnist.caffemodel
+wget https://www.dropbox.com/s/99a6b3ax39c3vzu/mnist.caffemodel?dl=0 -O mnist.caffemodel

@@ -13,6 +13,7 @@ chmod +x ./infer.sh
 ```
 cd pre-trained
 chmod +x ./dl_model.sh
+./dl_model.sh
 export MODEL_NAME=mnist.caffemodel
 ./infer.sh images/7.png
 ```

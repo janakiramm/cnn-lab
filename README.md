@@ -12,7 +12,6 @@ chmod +x ./infer.sh
 
 ## To use a pre-trained model for inference, run the below commands
 ```
-docker pull bvlc/caffe:cpu 
 cd pre-trained
 chmod +x ./dl_model.sh
 ./dl_model.sh
